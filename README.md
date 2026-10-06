@@ -7,12 +7,6 @@
   <img src="https://img.shields.io/github/followers/dev-satish-yadav?label=Followers&style=flat" alt="GitHub followers" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dev-satish-yadav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -28,7 +22,31 @@
 ### 🛠️ Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,react,mongodb,postgres,mysql,redis,postman,firebase,docker,linux,git,kafka,grafana" alt="Languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,react" alt="Languages and frameworks" />
+</p>
+
+### 🗄️ Databases & Caching
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" alt="Databases and caching" />
+</p>
+
+### 🧪 Testing & API Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,firebase" alt="Testing and API tools" />
+</p>
+
+### 🚀 Deployment & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,kafka,grafana" alt="Deployment and infrastructure tools" />
+</p>
+
+<p align="center">
+  <a href="https://openresty.org/" target="_blank" rel="noreferrer">
+    <img src="https://openresty.org/images/logo.png" alt="OpenResty" width="40" height="40" />
+  </a>
 </p>
 
 ---
@@ -46,14 +64,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dev-satish-yadav&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-satish-yadav&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---

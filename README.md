@@ -22,31 +22,7 @@
 ### 🛠️ Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,react" alt="Languages and frameworks" />
-</p>
-
-### 🗄️ Databases & Caching
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" alt="Databases and caching" />
-</p>
-
-### 🧪 Testing & API Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,firebase" alt="Testing and API tools" />
-</p>
-
-### 🚀 Deployment & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,kafka,grafana" alt="Deployment and infrastructure tools" />
-</p>
-
-<p align="center">
-  <a href="https://openresty.org/" target="_blank" rel="noreferrer">
-    <img src="https://openresty.org/images/logo.png" alt="OpenResty" width="40" height="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,react,mongodb,postgres,mysql,redis,postman,firebase,docker,linux,git,kafka,grafana" alt="Languages and frameworks" />
 </p>
 
 ---
